@@ -1,0 +1,6 @@
+vosk
+pyaudio
+pyttsx3
+pillow
+psutil
+mss
